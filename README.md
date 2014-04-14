@@ -1,4 +1,4 @@
-card-libs
+Card Libs
 =========
 
-A modern twist on a classic card game.
+A modern twist on a classic card game
